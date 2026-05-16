@@ -32,6 +32,10 @@ Dataset Used:
 
 * Online Retail II Dataset (UCI Machine Learning Repository)
 
+* ## Kaggle Dataset
+
+[Online Retail II Dataset on Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+
 Dataset Features:
 
 * Customer transactions
